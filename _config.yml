@@ -1,0 +1,14 @@
+layout_spectrum: 0.302363
+color:
+  saturation: 0.3947368
+  brandStrength: 0.8147153
+  lightness: 1
+  brandColors:
+    - '#1F3028'
+    - '#B51527'
+    - '#F1E191'
+    - '#C6D1F2'
+    - '#E9BD1E'
+  rhythmicContrast: 0.8651987
+typography_spectrum: 0.04779803
+name: The Vegan Buddhist
